@@ -1,16 +1,44 @@
-# shop_app
+# **Shopping App**
+This application is a mobile e-commerce application built with **Flutter** that allows users to browse and view shoes . With an intuitive interface and efficient state management, it provides a seamless shopping experience, offering product listings, detailed descriptions, and better experience.
 
-A new Flutter project.
+## **Features**
+- User-friendly interface
+- Responsive
+- State Management
 
-## Getting Started
+## **Versions**
+- Flutter 3.1.5
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## **Steps to Run the Program**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Follow the steps below to get the project up and running on your local machine:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 1. **Clone the Repository**
+   First, clone the repository to your local machine using the following command: 
+   ```bash
+   git clone https://github.com/piyushkarmacharya/shopping-app.git
+   ```
+
+
+### 2. **Navigate to Project Directory**
+Change the directory to the project folder: 
+```bash
+cd shopping-app
+```
+
+### 3. **Install dependencies**
+To install dependencies run : 
+```bash
+flutter pub get
+```
+
+### 4. **Run the Application**
+```bash
+flutter run
+```
+
+After this command user have to choose a device to run the application.
+   
+   
